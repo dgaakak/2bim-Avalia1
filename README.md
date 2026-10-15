@@ -24,4 +24,4 @@ Framework preset: `None`. Build command: vazio. Build output directory: `public`
 
 Nome: Douglas Soares Belmiro    
 RA: 2026107677
-URL: https://
+URL: https://2e2d8325.2bim-avalia1-dcs.pages.dev/
